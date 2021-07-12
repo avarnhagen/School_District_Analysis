@@ -29,7 +29,7 @@ Thomas High School's mean math (83.4% before vs. 83.4% after) and reading (83.8%
 
 **Rank Before Removal:**
 
-<img src="Resources/RankHeader.png" alt="your alt text" width="50"/> <img src="Resources/RankBefore_Removal.png" alt="your alt text" width="42.3"/> 
+<img src="Resources/RankHeader.png" alt="your alt text" width="100"/> <img src="Resources/RankBefore_Removal.png" alt="your alt text" width="82.6"/> 
 
 [High School Overall Passing Rankings Before 9th Grade Test Score Removal - Header](School_District_Analysis/Resources/RankHeader.png)
 
@@ -37,7 +37,7 @@ Thomas High School's mean math (83.4% before vs. 83.4% after) and reading (83.8%
 
 **Rank After Removal**
 
-<img src="Resources/RankHeader_AfterRemoval.png" alt="your alt text" width="50"/> <img src="Resources/RankAfter_Removal.png" alt="your alt text" width="56"/> 
+<img src="Resources/RankHeader_AfterRemoval.png" alt="your alt text" width="100"/> <img src="Resources/RankAfter_Removal.png" alt="your alt text" width="112"/> 
 
 [High School Overall Passing Rankings After 9th Grade Test Score Removal - Header](School_District_Analysis/Resources/RankHeader.png)
 
